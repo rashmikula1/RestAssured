@@ -1,0 +1,1 @@
+{"uuid":"be0d279d-5697-4ce7-b06d-179980c24d05","name":"Scenario: Check if the user is able to log out with missing endpoint","children":["03a83ea3-5c74-4cf7-9377-c9330df7d004"],"befores":[],"afters":[],"start":1700588134591,"stop":1700588135255}

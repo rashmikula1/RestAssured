@@ -1,0 +1,37 @@
+{
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "patientId": {
+          "type": "integer"
+        },
+        "FirstName": {
+          "type": "string"
+        },
+        "LastName": {
+          "type": "string"
+        },
+        "ContactNumber": {
+          "type": "string"
+        },
+        "Email": {
+          "type": "string"
+        },
+        "Allergy": {
+          "type": "string"
+        },
+        "FoodCategory": {
+          "type": "string"
+        }
+      "required": [
+        "patientId",
+        "FirstName",
+        "LastName",
+        "ContactNumber",
+        "Email"
+      ]
+    }
+  ]
+}

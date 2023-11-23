@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "errorCode": {
+      "type": "string"
+    },
+    "errorMessage": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "errorCode",
+    "errorMessage"
+  ]
+}

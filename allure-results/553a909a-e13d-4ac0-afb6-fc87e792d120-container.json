@@ -1,0 +1,1 @@
+{"uuid":"553a909a-e13d-4ac0-afb6-fc87e792d120","name":"Scenario Outline: Check if the user is able to log in with invalid API endpoint","children":["ad7def83-203d-45e7-9ef7-200c8d1cac00"],"befores":[],"afters":[],"start":1700580191773,"stop":1700580191922}

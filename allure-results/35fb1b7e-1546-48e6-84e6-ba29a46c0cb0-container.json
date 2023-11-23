@@ -1,0 +1,1 @@
+{"uuid":"35fb1b7e-1546-48e6-84e6-ba29a46c0cb0","name":"Scenario: Check if user as Dietician able to retrieve all morbidity details with \"<dataKey>\" endpoint and request body.","children":["1bff4625-b8de-42f1-9935-68a4b1c13b99"],"befores":[],"afters":[],"start":1700572968486,"stop":1700572972074}

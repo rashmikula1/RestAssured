@@ -1,0 +1,1 @@
+{"uuid":"1c2bd4a6-5dfa-47b4-a294-5d3c5bd5b065","name":"Scenario: Check if the user is able to log out with invalid endpoint","children":["0c9c91e0-5ced-44a7-8bff-78cfe97534a3"],"befores":[],"afters":[],"start":1700587979132,"stop":1700587979781}

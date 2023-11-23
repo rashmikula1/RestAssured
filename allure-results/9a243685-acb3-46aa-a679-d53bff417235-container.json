@@ -1,0 +1,1 @@
+{"uuid":"9a243685-acb3-46aa-a679-d53bff417235","name":"Scenario Outline: Check if user able to create a patient with \"<dataKey>\" endpoint and request body.","children":["74ad33b7-c0c7-4e15-bddb-eb0333ca002e"],"befores":[],"afters":[],"start":1700588948854,"stop":1700588949439}

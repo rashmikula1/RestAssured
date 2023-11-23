@@ -1,0 +1,1 @@
+{"uuid":"c8db061f-c767-4dc3-a940-61e9dd98511b","name":"Scenario: Check if the user is able to log out with missing token","children":["bca2cf0d-de0e-4bfe-af4c-e2fd51670aad"],"befores":[],"afters":[],"start":1700580193031,"stop":1700580193573}

@@ -1,0 +1,1 @@
+{"uuid":"e9325b87-b47e-49a7-8768-109a5c198984","name":"Scenario Outline: Check if user able to retrieve all patients with \"<dataKey>\" endpoint and request body.","children":["14a3d2fc-9fbe-4fc9-ad0d-b0f0c9547150"],"befores":[],"afters":[],"start":1700588126211,"stop":1700588128789}

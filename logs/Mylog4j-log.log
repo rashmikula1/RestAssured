@@ -1,0 +1,1401 @@
+[INFO ] 2023-11-21 08:22:49.187 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:22:51.504 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:22:51.629 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:22:51.632 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:22:52.040 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:22:52.203 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:22:52.560 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:22:52.620 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:22:52.621 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:22:52.947 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:22:53.045 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:22:53.482 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:22:53.535 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:22:53.538 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:22:53.871 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:22:53.966 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:22:54.411 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:22:54.476 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:22:54.478 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:22:54.788 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:22:54.917 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:22:55.423 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:22:55.479 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:22:56.563 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 08:22:56.566 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:22:56.945 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:22:57.013 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:22:57.573 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:22:57.579 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 08:22:57.580 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:22:58.005 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:22:58.081 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:22:58.597 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:22:58.602 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 08:22:58.604 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:22:59.089 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:22:59.161 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:22:59.718 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:22:59.731 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 08:22:59.734 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:00.115 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:00.192 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:00.638 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:00.711 [main] LoggerLoad - Login Request: userId: test@gmail.compassword: gtyy456
+[INFO ] 2023-11-21 08:23:01.144 [main] LoggerLoad - null
+[INFO ] 2023-11-21 08:23:01.218 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: tyurryy
+[INFO ] 2023-11-21 08:23:01.653 [main] LoggerLoad - null
+[INFO ] 2023-11-21 08:23:01.713 [main] LoggerLoad - Login Request: userId: bnm@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:02.272 [main] LoggerLoad - null
+[INFO ] 2023-11-21 08:23:02.341 [main] LoggerLoad - Cannot invoke "String.isBlank()" because the return value of "java.util.Map.get(Object)" is null
+[INFO ] 2023-11-21 08:23:02.344 [main] LoggerLoad - Cannot invoke "io.restassured.specification.RequestSpecification.when()" because "this.requestSpec" is null
+[INFO ] 2023-11-21 08:23:02.346 [main] LoggerLoad - Cannot invoke "io.restassured.response.Response.asString()" because "this.resp" is null
+[INFO ] 2023-11-21 08:23:02.756 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:03.404 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:04.171 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:04.650 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:05.275 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 08:23:05.338 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:05.863 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:06.783 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 08:23:06.852 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:07.397 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:08.315 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 08:23:08.393 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:08.724 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:09.831 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 08:23:09.889 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:10.371 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:10.417 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:10.418 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:10.745 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:10.819 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:11.054 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:11.107 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:11.109 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:11.371 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:11.448 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:11.675 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:11.710 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:11.712 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:11.969 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:12.027 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:12.247 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:12.302 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:12.304 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:13.991 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:14.048 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:15.677 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:15.713 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:15.714 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:15.933 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:15.998 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:16.245 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:16.283 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:16.285 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:16.528 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:16.576 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:16.816 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:16.871 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:16.872 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:17.160 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:17.214 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:17.470 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:17.515 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:17.516 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:17.761 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:17.810 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:18.031 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:18.063 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:18.063 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:18.300 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:18.335 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:18.561 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:18.593 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:18.594 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:18.815 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:18.849 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:19.292 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:19.323 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:19.325 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:19.579 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:19.618 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:19.862 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:19.892 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 08:23:19.894 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:20.129 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:20.192 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:20.405 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:20.433 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:20.435 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:20.696 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:20.728 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:20.974 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:21.001 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:21.002 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:21.233 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:21.304 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:21.542 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:21.565 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 08:23:21.565 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:21.780 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:21.828 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:22.046 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:22.090 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 08:23:22.317 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 08:23:22.375 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 08:23:22.597 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 08:23:22.941 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:23.195 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:23.228 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:23.471 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 08:23:23.473 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:23.789 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:23.862 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:24.098 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:24.137 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 08:23:24.137 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:24.416 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:24.472 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:24.705 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:24.730 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 08:23:24.731 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:24.982 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:25.049 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:25.288 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:25.333 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 08:23:25.334 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:25.578 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:25.638 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:25.868 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:25.893 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 08:23:25.994 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:26.280 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:26.330 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:26.730 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:26.764 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 08:23:26.765 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:27.057 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:27.095 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:27.327 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:27.359 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 08:23:27.359 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:27.670 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:27.720 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:27.960 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:27.982 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 08:23:27.984 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:28.237 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 08:23:28.274 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 08:23:28.501 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 08:23:28.526 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 08:23:28.527 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 08:23:28.807 [main] LoggerLoad - Patient POST request sent
+[WARN ] 2023-11-21 08:23:29.813 [main] FileSystemFontProvider - New fonts found, font cache will be re-built
+[WARN ] 2023-11-21 08:23:29.813 [main] FileSystemFontProvider - Building on-disk font cache, this may take a while
+[WARN ] 2023-11-21 08:23:31.443 [main] FileSystemFontProvider - Finished building on-disk font cache, found 363 fonts
+[INFO ] 2023-11-21 10:23:01.636 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.641 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO ] 2023-11-21 10:23:01.643 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.643 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.644 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.644 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.644 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.644 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.646 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2023-11-21 10:23:01.657 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[INFO ] 2023-11-21 10:23:01.660 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2023-11-21 10:23:01.660 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.661 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.661 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.662 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.662 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.664 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.664 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.664 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.664 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.667 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.667 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.667 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.667 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.671 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO ] 2023-11-21 10:23:01.672 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.674 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.674 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.674 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.674 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-21 10:23:01.685 [main] Utils - [TestNG] Running:
+  C:\Users\rashm\AppData\Local\Temp\testng-eclipse--1926091449\testng-customsuite.xml
+
+[INFO ] 2023-11-21 10:23:01.704 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[INFO ] 2023-11-21 10:23:03.944 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:05.979 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:06.118 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:23:06.120 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:06.319 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:23:06.463 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:06.704 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:06.752 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:23:06.753 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:06.956 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:23:07.044 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:07.275 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:07.332 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:23:07.335 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:07.498 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:23:07.575 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:07.819 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:07.871 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:23:07.873 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:08.029 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:23:08.138 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:08.385 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:08.422 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:09.230 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 10:23:09.231 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:09.372 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:23:09.418 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:09.731 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:09.735 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 10:23:09.736 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:09.877 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:23:09.921 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:10.135 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:10.141 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 10:23:10.143 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:10.289 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:23:10.345 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:10.569 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:10.574 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 10:23:10.576 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:10.715 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:23:10.763 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:10.981 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:11.036 [main] LoggerLoad - Login Request: userId: test@gmail.compassword: gtyy456
+[INFO ] 2023-11-21 10:23:11.171 [main] LoggerLoad - null
+[INFO ] 2023-11-21 10:23:11.209 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: tyurryy
+[INFO ] 2023-11-21 10:23:11.441 [main] LoggerLoad - null
+[INFO ] 2023-11-21 10:23:11.495 [main] LoggerLoad - Login Request: userId: bnm@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:11.723 [main] LoggerLoad - null
+[INFO ] 2023-11-21 10:23:11.758 [main] LoggerLoad - Cannot invoke "String.isBlank()" because the return value of "java.util.Map.get(Object)" is null
+[INFO ] 2023-11-21 10:23:11.760 [main] LoggerLoad - Cannot invoke "io.restassured.specification.RequestSpecification.when()" because "this.requestSpec" is null
+[INFO ] 2023-11-21 10:23:11.762 [main] LoggerLoad - Cannot invoke "io.restassured.response.Response.asString()" because "this.resp" is null
+[INFO ] 2023-11-21 10:23:11.963 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:12.186 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:12.526 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:12.746 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:13.022 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 10:23:13.058 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:13.287 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:13.572 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 10:23:13.606 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:13.831 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:14.188 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 10:23:14.218 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:14.469 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:14.798 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 10:23:14.834 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:17.830 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:17.858 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:23:17.859 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:19.482 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:23:19.537 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:23.328 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:23.364 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:23:23.365 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:29.698 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:23:29.748 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:33.470 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:33.491 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:23:33.492 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:37.859 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:23:37.889 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:44.421 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:44.462 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:23:44.462 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:50.105 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:23:50.159 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:51.383 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:51.405 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:23:51.406 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:23:52.840 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:23:52.902 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:23:54.458 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:23:54.483 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:23:54.483 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:24:00.074 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:24:00.108 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:24:01.484 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:24:01.522 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:24:01.523 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:24:04.033 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:24:04.072 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:24:07.506 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:24:07.531 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:24:07.531 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:24:12.662 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:24:12.693 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:24:14.834 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:24:14.857 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:24:14.859 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:24:16.255 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:24:16.300 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:24:19.555 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:24:19.590 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:24:19.591 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:24:25.763 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:24:25.807 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:24:30.600 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:24:30.632 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:24:30.632 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:24:35.767 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:24:35.816 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:24:40.640 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:24:40.675 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 10:24:40.676 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:24:47.662 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:24:47.707 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:24:53.690 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:24:53.723 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:24:53.723 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:25:00.711 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:25:00.764 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:25:04.737 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:25:04.765 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:25:04.766 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:25:11.770 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:25:11.822 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:25:16.801 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:25:16.830 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 10:25:16.831 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:25:23.819 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:25:23.853 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:25:29.859 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:25:29.880 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 10:25:34.887 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 10:25:34.928 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 10:25:38.886 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 10:25:43.952 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:25:48.929 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:25:48.956 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:25:56.005 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 10:25:56.007 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:26:03.983 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:26:04.044 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:26:09.007 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:26:09.033 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 10:26:09.034 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:26:15.521 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:26:15.557 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:26:19.049 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:26:19.079 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 10:26:19.081 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:26:24.061 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:26:24.096 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:26:29.080 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:26:29.095 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 10:26:29.095 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:26:35.105 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:26:35.154 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:26:39.126 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:26:39.154 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 10:26:39.155 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:26:42.128 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:26:42.158 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:26:47.155 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:26:47.185 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 10:26:47.186 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:26:54.178 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:26:54.223 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:26:58.839 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:26:58.860 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 10:26:58.861 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:27:04.220 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:27:04.264 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:27:10.248 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:27:10.282 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 10:27:10.283 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:27:17.274 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:27:17.312 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 10:27:22.308 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 10:27:22.341 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 10:27:22.341 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 10:27:29.320 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 10:27:32.032 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2c673dec: 0 ms
+[INFO ] 2023-11-21 10:27:32.057 [main] Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@3f06abd: 25 ms
+[INFO ] 2023-11-21 10:27:32.126 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4bbddcc8: 69 ms
+[INFO ] 2023-11-21 10:27:32.140 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3c6c7782: 13 ms
+[INFO ] 2023-11-21 10:27:32.154 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@749aa36f: 14 ms
+[INFO ] 2023-11-21 10:27:32.168 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@425436b4: 14 ms
+[INFO ] 2023-11-21 10:27:32.180 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@58a0b88e: 12 ms
+[INFO ] 2023-11-21 12:22:55.976 [main] Utils - [TestNG] Running:
+  C:\Users\rashm\eclipse-workspace\Team5-Rest-Athon\Team5-Rest-Athon-main\Team5-Rest-Athon\testng.xml
+
+[INFO ] 2023-11-21 12:27:51.134 [main] Utils - [TestNG] Running:
+  C:\Users\rashm\eclipse-workspace\Team5-Rest-Athon\Team5-Rest-Athon-main\Team5-Rest-Athon\testng.xml
+
+[INFO ] 2023-11-21 12:27:53.854 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:27:56.004 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:27:56.141 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:27:56.144 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:27:56.347 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:27:56.525 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:27:57.029 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:27:57.089 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:27:57.091 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:27:57.485 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:27:57.573 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:27:58.237 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:27:58.333 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:27:58.337 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:27:58.615 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:27:58.679 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:27:59.212 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:27:59.271 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:27:59.273 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:27:59.669 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:27:59.832 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:00.271 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:00.383 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:01.627 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:28:01.629 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:02.041 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:02.135 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:02.923 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:02.929 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:28:02.930 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:03.091 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:03.146 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:03.382 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:03.386 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:28:03.388 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:03.556 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:03.615 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:03.870 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:03.875 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:28:03.876 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:04.031 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:04.086 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:04.315 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:04.359 [main] LoggerLoad - Login Request: userId: test@gmail.compassword: gtyy456
+[INFO ] 2023-11-21 12:28:04.877 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:28:04.939 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: tyurryy
+[INFO ] 2023-11-21 12:28:05.299 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:28:05.356 [main] LoggerLoad - Login Request: userId: bnm@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:05.889 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:28:05.925 [main] LoggerLoad - Cannot invoke "String.isBlank()" because the return value of "java.util.Map.get(Object)" is null
+[INFO ] 2023-11-21 12:28:05.927 [main] LoggerLoad - Cannot invoke "io.restassured.specification.RequestSpecification.when()" because "this.requestSpec" is null
+[INFO ] 2023-11-21 12:28:05.930 [main] LoggerLoad - Cannot invoke "io.restassured.response.Response.asString()" because "this.resp" is null
+[INFO ] 2023-11-21 12:28:06.517 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:06.774 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:07.119 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:07.360 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:07.650 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:28:07.690 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:07.942 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:08.231 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:28:08.283 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:08.514 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:08.857 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:28:08.902 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:09.143 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:09.497 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:28:09.552 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:09.787 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:09.834 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:09.836 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:10.095 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:10.141 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:10.371 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:10.409 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:10.409 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:10.647 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:10.691 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:10.914 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:10.952 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:10.954 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:11.217 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:11.265 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:11.497 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:11.529 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:11.530 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:11.756 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:11.801 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:12.018 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:12.045 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:12.046 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:12.284 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:12.329 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:12.567 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:12.619 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:12.620 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:12.892 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:12.926 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:13.160 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:13.193 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:13.194 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:13.424 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:13.466 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:13.686 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:13.722 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:13.722 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:13.952 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:14.023 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:14.258 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:14.298 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:14.298 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:14.536 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:14.576 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:14.788 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:14.834 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:14.835 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:15.062 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:15.111 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:15.338 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:15.368 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:15.369 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:15.618 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:15.658 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:15.901 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:15.926 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 12:28:15.929 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:16.164 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:16.193 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:16.417 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:16.460 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:16.463 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:16.722 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:16.769 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:16.986 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:17.025 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:17.027 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:17.250 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:17.292 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:17.529 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:17.567 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:28:17.567 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:17.825 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:17.875 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:18.103 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:18.137 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 12:28:18.362 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 12:28:18.430 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 12:28:18.661 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 12:28:19.047 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:19.272 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:19.299 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:19.594 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:28:19.597 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:19.886 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:19.957 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:20.186 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:20.220 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:28:20.222 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:20.510 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:20.569 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:20.787 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:20.830 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:28:20.833 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:21.067 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:21.125 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:21.332 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:21.375 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:28:21.376 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:21.625 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:21.671 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:21.934 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:21.978 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:28:21.979 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:22.243 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:22.276 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:22.481 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:22.518 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 12:28:22.519 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:22.767 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:22.817 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:23.028 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:23.055 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:28:23.055 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:23.355 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:23.403 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:23.624 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:23.656 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:28:23.657 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:23.911 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:28:23.980 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:28:24.214 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:28:24.248 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:28:24.249 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:28:24.546 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:21.471 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:24.003 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:24.129 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:24.130 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:24.676 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:24.844 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:25.388 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:25.491 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:25.494 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:25.878 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:25.983 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:26.514 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:26.612 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:26.614 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:27.102 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:27.203 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:27.757 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:27.887 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:27.890 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:28.222 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:28.419 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:28.748 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:28.808 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:29.971 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:29:29.973 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:30.274 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:30.340 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:30.665 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:30.671 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:29:30.671 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:30.849 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:30.916 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:31.143 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:31.147 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:29:31.148 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:31.284 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:31.333 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:31.559 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:31.564 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:29:31.565 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:31.714 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:31.768 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:31.994 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:32.039 [main] LoggerLoad - Login Request: userId: test@gmail.compassword: gtyy456
+[INFO ] 2023-11-21 12:29:32.180 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:29:32.220 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: tyurryy
+[INFO ] 2023-11-21 12:29:32.435 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:29:32.504 [main] LoggerLoad - Login Request: userId: bnm@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:32.739 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:29:32.773 [main] LoggerLoad - Cannot invoke "String.isBlank()" because the return value of "java.util.Map.get(Object)" is null
+[INFO ] 2023-11-21 12:29:32.775 [main] LoggerLoad - Cannot invoke "io.restassured.specification.RequestSpecification.when()" because "this.requestSpec" is null
+[INFO ] 2023-11-21 12:29:32.777 [main] LoggerLoad - Cannot invoke "io.restassured.response.Response.asString()" because "this.resp" is null
+[INFO ] 2023-11-21 12:29:33.001 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:33.241 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:33.649 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:33.883 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:34.165 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:29:34.253 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:34.503 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:34.821 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:29:34.910 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:35.157 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:35.507 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:29:35.613 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:35.854 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:36.204 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:29:36.290 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:36.540 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:36.587 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:36.589 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:36.840 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:36.903 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:37.124 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:37.179 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:37.180 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:37.446 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:37.510 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:37.747 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:37.800 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:37.801 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:38.041 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:38.106 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:38.342 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:38.393 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:38.394 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:38.634 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:38.704 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:38.967 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:39.012 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:39.013 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:39.238 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:39.300 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:39.528 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:39.570 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:39.571 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:39.818 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:39.887 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:40.107 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:40.154 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:40.155 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:40.400 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:40.470 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:40.711 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:40.757 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:40.759 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:41.002 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:41.080 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:41.325 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:41.376 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:41.378 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:41.614 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:41.683 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:41.919 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:41.963 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:41.965 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:42.186 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:42.246 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:42.485 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:42.539 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:42.542 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:42.788 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:42.851 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:43.108 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:43.151 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 12:29:43.153 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:43.393 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:43.435 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:43.661 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:43.707 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:43.709 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:43.947 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:44.011 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:44.262 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:44.301 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:44.303 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:44.551 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:44.613 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:44.855 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:44.913 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:29:44.914 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:45.177 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:45.234 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:45.462 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:45.495 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 12:29:45.737 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 12:29:45.796 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 12:29:46.017 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 12:29:46.372 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:46.588 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:46.620 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:46.956 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:29:46.957 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:47.570 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:47.669 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:47.891 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:47.951 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:29:47.952 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:48.253 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:48.313 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:48.543 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:48.590 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:29:48.592 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:48.851 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:48.912 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:49.124 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:49.158 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:29:49.159 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:49.404 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:49.477 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:49.733 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:49.781 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:29:49.784 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:50.001 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:50.046 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:50.268 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:50.310 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 12:29:50.312 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:50.545 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:50.601 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:50.822 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:50.858 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:29:50.859 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:51.167 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:51.229 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:51.462 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:51.503 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:29:51.505 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:51.730 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:29:51.789 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:29:52.031 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:29:52.082 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:29:52.084 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:29:52.370 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:32:45.105 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:47.762 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:47.901 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:32:47.901 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:32:48.220 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:32:48.366 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:48.738 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:48.825 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:32:48.829 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:32:49.243 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:32:49.302 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:49.672 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:49.762 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:32:49.762 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:32:50.063 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:32:50.154 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:50.591 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:50.683 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:32:50.684 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:32:51.189 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:32:51.354 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:51.839 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:51.904 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:32:53.371 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:32:53.373 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:32:53.539 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:32:53.648 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:53.887 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:53.889 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:32:53.889 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:32:54.039 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:32:54.139 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:54.409 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:54.416 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:32:54.416 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:32:54.571 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:32:54.663 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:54.914 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:54.919 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:32:54.926 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:32:55.089 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:32:55.188 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:55.441 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:55.520 [main] LoggerLoad - Login Request: userId: test@gmail.compassword: gtyy456
+[INFO ] 2023-11-21 12:32:55.689 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:32:55.780 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: tyurryy
+[INFO ] 2023-11-21 12:32:55.994 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:32:56.061 [main] LoggerLoad - Login Request: userId: bnm@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:56.294 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:32:56.359 [main] LoggerLoad - Cannot invoke "String.isBlank()" because the return value of "java.util.Map.get(Object)" is null
+[INFO ] 2023-11-21 12:32:56.362 [main] LoggerLoad - Cannot invoke "io.restassured.specification.RequestSpecification.when()" because "this.requestSpec" is null
+[INFO ] 2023-11-21 12:32:56.362 [main] LoggerLoad - Cannot invoke "io.restassured.response.Response.asString()" because "this.resp" is null
+[INFO ] 2023-11-21 12:32:56.654 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:56.897 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:57.269 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:57.513 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:57.824 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:32:57.894 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:58.134 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:58.414 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:32:58.477 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:58.703 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:59.115 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:32:59.199 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:32:59.424 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:32:59.779 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:32:59.862 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:00.097 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:00.159 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:00.159 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:00.419 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:00.474 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:00.722 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:00.784 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:00.789 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:01.009 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:01.082 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:01.330 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:01.397 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:01.399 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:01.660 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:01.733 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:01.945 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:01.983 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:01.989 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:02.229 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:02.290 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:02.535 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:02.580 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:02.584 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:02.841 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:02.897 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:03.131 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:03.172 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:03.172 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:03.430 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:03.499 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:03.751 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:03.804 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:03.804 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:04.065 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:04.112 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:04.332 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:04.369 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:04.369 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:04.624 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:04.681 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:04.905 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:04.947 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:04.949 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:05.164 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:05.213 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:05.436 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:05.474 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:05.474 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:05.717 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:05.789 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:06.009 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:06.054 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:06.054 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:06.312 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:06.369 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:06.602 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:06.652 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 12:33:06.654 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:06.922 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:06.981 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:07.211 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:07.254 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:07.259 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:07.517 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:07.579 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:07.804 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:07.853 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:07.855 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:08.100 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:08.172 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:08.392 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:08.434 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:33:08.434 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:08.718 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:08.782 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:09.002 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:09.039 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 12:33:09.269 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 12:33:09.323 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 12:33:09.551 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 12:33:09.941 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:10.179 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:10.213 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:10.519 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:33:10.519 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:10.831 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:10.924 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:11.185 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:11.223 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:33:11.223 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:11.519 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:11.564 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:11.792 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:11.842 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:33:11.842 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:12.099 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:12.159 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:12.384 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:12.424 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:33:12.428 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:12.669 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:12.732 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:12.951 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:12.983 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:33:12.983 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:13.222 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:13.297 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:13.552 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:13.589 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 12:33:13.589 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:13.835 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:13.877 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:14.089 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:14.129 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:33:14.130 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:14.449 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:14.502 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:14.739 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:14.778 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:33:14.779 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:15.017 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:33:15.083 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:33:15.314 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:33:15.351 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:33:15.351 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:33:15.636 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:20.134 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:22.485 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:22.599 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:22.604 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:22.970 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:23.224 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:23.779 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:23.874 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:23.878 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:24.369 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:24.469 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:24.909 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:25.014 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:25.024 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:25.294 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:25.396 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:25.720 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:25.799 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:25.801 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:26.120 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:26.279 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:26.653 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:26.724 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:28.359 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:35:28.364 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:28.780 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:28.882 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:29.304 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:29.309 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:35:29.309 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:29.599 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:29.785 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:30.219 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:30.222 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:35:30.227 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:30.591 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:30.651 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:30.914 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:30.922 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:35:30.922 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:31.188 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:31.281 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:31.631 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:31.692 [main] LoggerLoad - Login Request: userId: test@gmail.compassword: gtyy456
+[INFO ] 2023-11-21 12:35:31.861 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:35:31.932 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: tyurryy
+[INFO ] 2023-11-21 12:35:32.216 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:35:32.279 [main] LoggerLoad - Login Request: userId: bnm@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:32.509 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:35:32.562 [main] LoggerLoad - Cannot invoke "String.isBlank()" because the return value of "java.util.Map.get(Object)" is null
+[INFO ] 2023-11-21 12:35:32.568 [main] LoggerLoad - Cannot invoke "io.restassured.specification.RequestSpecification.when()" because "this.requestSpec" is null
+[INFO ] 2023-11-21 12:35:32.569 [main] LoggerLoad - Cannot invoke "io.restassured.response.Response.asString()" because "this.resp" is null
+[INFO ] 2023-11-21 12:35:32.785 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:33.029 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:33.409 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:33.649 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:33.962 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:35:34.026 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:34.262 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:34.575 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:35:34.635 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:34.878 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:35.255 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:35:35.309 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:35.538 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:35.893 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:35:35.950 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:36.170 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:36.209 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:36.209 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:36.489 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:36.560 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:36.789 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:36.826 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:36.826 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:37.061 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:37.150 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:37.371 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:37.426 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:37.427 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:37.687 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:37.749 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:37.999 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:38.054 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:38.054 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:38.326 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:38.394 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:38.622 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:38.663 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:38.663 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:38.910 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:38.985 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:39.209 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:39.249 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:39.249 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:39.572 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:39.624 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:39.884 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:39.940 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:39.940 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:40.194 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:40.233 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:40.480 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:40.514 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:40.514 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:40.766 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:40.829 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:41.041 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:41.079 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:41.079 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:41.318 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:41.369 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:41.643 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:41.688 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:41.688 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:41.923 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:41.982 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:42.219 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:42.264 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:42.264 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:42.509 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:42.572 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:42.814 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:42.859 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 12:35:42.859 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:43.109 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:43.174 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:43.434 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:43.474 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:43.474 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:43.721 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:43.757 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:43.983 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:44.024 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:44.024 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:44.280 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:44.334 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:44.559 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:44.589 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:35:44.589 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:44.849 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:44.901 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:45.127 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:45.159 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 12:35:45.432 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 12:35:45.480 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 12:35:45.722 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 12:35:46.095 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:46.346 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:46.379 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:46.689 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:35:46.689 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:47.121 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:47.219 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:47.479 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:47.517 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:35:47.517 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:47.839 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:47.882 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:48.136 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:48.189 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:35:48.193 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:48.491 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:48.542 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:48.952 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:48.993 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:35:48.993 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:49.220 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:49.270 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:49.509 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:49.544 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:35:49.544 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:49.797 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:49.851 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:50.073 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:50.119 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 12:35:50.122 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:50.381 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:50.425 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:50.664 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:50.711 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:35:50.714 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:51.032 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:51.079 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:51.294 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:51.329 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:35:51.334 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:51.615 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:35:51.655 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:35:51.869 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:35:51.905 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:35:51.907 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:35:52.210 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:48:48.021 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:48:52.104 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:48:52.346 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:48:52.348 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:48:52.598 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:48:52.969 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:48:53.261 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:48:53.368 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:48:53.374 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:48:53.602 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:48:53.719 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:48:53.975 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:48:54.120 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:48:54.126 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:48:54.305 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:48:54.438 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:48:54.703 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:48:54.784 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:48:54.787 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:48:54.993 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:48:55.142 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:48:55.394 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:48:55.502 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:48:57.446 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:48:57.449 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:48:57.672 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:48:57.817 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:48:58.065 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:48:58.076 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:48:58.077 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:48:58.288 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:48:58.420 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:48:58.672 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:48:58.674 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:48:58.675 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:48:58.826 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:48:58.925 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:48:59.192 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:48:59.202 [main] LoggerLoad - Get request created
+[INFO ] 2023-11-21 12:48:59.205 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:48:59.372 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:48:59.488 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:48:59.738 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:48:59.827 [main] LoggerLoad - Login Request: userId: test@gmail.compassword: gtyy456
+[INFO ] 2023-11-21 12:48:59.992 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:49:00.084 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: tyurryy
+[INFO ] 2023-11-21 12:49:00.338 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:49:00.432 [main] LoggerLoad - Login Request: userId: bnm@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:00.668 [main] LoggerLoad - null
+[INFO ] 2023-11-21 12:49:00.737 [main] LoggerLoad - Cannot invoke "String.isBlank()" because the return value of "java.util.Map.get(Object)" is null
+[INFO ] 2023-11-21 12:49:00.746 [main] LoggerLoad - Cannot invoke "io.restassured.specification.RequestSpecification.when()" because "this.requestSpec" is null
+[INFO ] 2023-11-21 12:49:00.750 [main] LoggerLoad - Cannot invoke "io.restassured.response.Response.asString()" because "this.resp" is null
+[INFO ] 2023-11-21 12:49:00.997 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:01.233 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:01.617 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:01.875 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:02.189 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:49:02.288 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:02.533 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:02.825 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:49:02.889 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:03.158 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:03.570 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:49:03.664 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:03.893 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:04.206 [main] LoggerLoad - Login POST unsuccessful
+[INFO ] 2023-11-21 12:49:04.285 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:04.516 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:04.600 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:04.601 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:04.886 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:04.974 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:05.435 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:05.479 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:05.481 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:05.713 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:05.790 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:06.022 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:06.070 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:06.073 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:06.311 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:06.368 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:06.599 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:06.647 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:06.647 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:06.946 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:07.008 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:07.278 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:07.332 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:07.333 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:07.598 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:07.674 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:07.910 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:07.955 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:07.956 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:08.202 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:08.264 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:08.506 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:08.549 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:08.553 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:08.823 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:08.892 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:09.122 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:09.167 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:09.167 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:09.433 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:09.492 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:09.721 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:09.769 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:09.770 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:10.007 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:10.045 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:10.279 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:10.318 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:10.319 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:10.580 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:10.643 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:10.858 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:10.898 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:10.899 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:11.150 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:11.206 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:11.438 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:11.482 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 12:49:11.484 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:11.719 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:11.774 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:11.998 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:12.032 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:12.034 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:12.275 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:12.327 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:12.564 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:12.615 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:12.618 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:12.840 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:12.918 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:13.148 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:13.175 [main] LoggerLoad - Paitient POST request created
+[INFO ] 2023-11-21 12:49:13.178 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:13.429 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:13.487 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:13.729 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:13.762 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 12:49:13.999 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 12:49:14.086 [main] LoggerLoad - Login Request: userId: Rajan.m@gmail.compassword: test
+[INFO ] 2023-11-21 12:49:14.345 [main] LoggerLoad - Patient Login POST successful
+[INFO ] 2023-11-21 12:49:14.733 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:14.986 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:15.021 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:15.354 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:49:15.356 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:15.674 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:15.759 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:15.988 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:16.039 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:49:16.039 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:16.371 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:16.436 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:16.674 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:16.710 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:49:16.712 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:16.963 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:17.019 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:17.249 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:17.286 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:49:17.287 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:17.511 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:17.559 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:17.804 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:17.839 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:49:17.840 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:18.088 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:18.122 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:18.356 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:18.398 [main] LoggerLoad - For input string: "jkkjkjkkj"
+[INFO ] 2023-11-21 12:49:18.399 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:18.640 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:18.688 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:18.915 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:18.957 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:49:18.957 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:19.258 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:19.322 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:19.550 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:19.578 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:49:19.580 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:19.826 [main] LoggerLoad - Patient POST request sent
+[INFO ] 2023-11-21 12:49:19.904 [main] LoggerLoad - Login Request: userId: angu.geetha@gmail.compassword: Song88
+[INFO ] 2023-11-21 12:49:20.121 [main] LoggerLoad - Login POST successful
+[INFO ] 2023-11-21 12:49:20.165 [main] LoggerLoad - PUT request created
+[INFO ] 2023-11-21 12:49:20.169 [main] LoggerLoad - baseUrlhttps://dietician-dev-41d9a344a720.herokuapp.com/dietician
+[INFO ] 2023-11-21 12:49:20.479 [main] LoggerLoad - Patient POST request sent

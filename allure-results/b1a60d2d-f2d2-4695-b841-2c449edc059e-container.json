@@ -1,0 +1,1 @@
+{"uuid":"b1a60d2d-f2d2-4695-b841-2c449edc059e","name":"Scenario: Check if the user is able to log in with valid credentials for patient","children":["dc417bff-1d39-4a53-a9b7-049337deb325"],"befores":[],"afters":[],"start":1700587785201,"stop":1700587785740}

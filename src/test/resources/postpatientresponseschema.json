@@ -1,0 +1,35 @@
+{
+  "type": "object",
+  "properties": {
+    "FirstName": {
+      "type": "string"
+    },
+    "LastName": {
+      "type": "string"
+    },
+    "ContactNumber": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "string"
+    },
+    "Allergy": {
+      "type": "string"
+    },
+    "FoodCategory": {
+      "type": "string"
+    },
+    "DateOfBirth": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "FirstName",
+    "LastName",
+    "ContactNumber",
+    "Email",
+    "Allergy",
+    "FoodCategory",
+    "DateOfBirth"
+  ]
+}

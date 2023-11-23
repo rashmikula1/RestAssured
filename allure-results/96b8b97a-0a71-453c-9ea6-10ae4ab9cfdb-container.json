@@ -1,0 +1,1 @@
+{"uuid":"96b8b97a-0a71-453c-9ea6-10ae4ab9cfdb","name":"Scenario: Check if the user is able to log out with invalid token","children":["a97cd874-b7f6-455f-99b3-f8584cbc27be"],"befores":[],"afters":[],"start":1700587773605,"stop":1700587774166}

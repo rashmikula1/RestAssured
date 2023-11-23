@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="12" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="45" time="35.28">
+    <testcase classname="GetAllMorbidities.feature" name="Check if user as Dietician able to retrieve all morbidity details with &quot;get_all_morbidity_valid&quot; endpoint and request body." time="6.258">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given Dietician creates GET Request for all Morbidity API endpoint with fields from "getmorbidity" with "get_all_morbidity_valid"..passed
+When Dietician sends HTTPS Request for all Morbidity API "get_all_morbidity_valid"..passed
+Then Dietician receives response for all Morbidity API "getmorbidity" with "get_all_morbidity_valid"..passed
+]]></system-out>
+    </testcase>
+    <testcase classname="GetAllMorbidities.feature" name="Check if user as Dietician able to retrieve all morbidity details with &quot;get_all_morbidity_invalid_endpoint&quot; endpoint and request body." time="0.793">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given Dietician creates GET Request for all Morbidity API endpoint with fields from "getmorbidity" with "get_all_morbidity_invalid_endpoint"..passed
+When Dietician sends HTTPS Request for all Morbidity API "get_all_morbidity_invalid_endpoint"..passed
+Then Dietician receives response for all Morbidity API "getmorbidity" with "get_all_morbidity_invalid_endpoint"..passed
+]]></system-out>
+    </testcase>
+    <testcase classname="GetAllMorbidities.feature" name="Check if user as Dietician able to retrieve all morbidity details with &quot;get_all_morbidity_invalid_token&quot; endpoint and request body." time="0.679">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given Dietician creates GET Request for all Morbidity API endpoint with fields from "getmorbidity" with "get_all_morbidity_invalid_token"..passed
+When Dietician sends HTTPS Request for all Morbidity API "get_all_morbidity_invalid_token"..passed
+Then Dietician receives response for all Morbidity API "getmorbidity" with "get_all_morbidity_invalid_token"..passed
+]]></system-out>
+    </testcase>
+    <testcase classname="GetAllMorbidities.feature" name="Check if user as Dietician able to retrieve all morbidity details with &quot;get_all_morbidity_patient_token&quot; endpoint and request body." time="0.704">
+        <failure message="1 expectation failed.&#10;Expected status code &lt;403&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given Dietician creates GET Request for all Morbidity API endpoint with fields from "getmorbidity" with "get_all_morbidity_patient_token"..passed
+When Dietician sends HTTPS Request for all Morbidity API "get_all_morbidity_patient_token"..passed
+Then Dietician receives response for all Morbidity API "getmorbidity" with "get_all_morbidity_patient_token"..failed
+
+StackTrace:
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <403> but was <200>.
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallConstructor(CallSiteArray.java:57)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:263)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+	at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+	at stepdefinitions.GetAllMorbiditySteps.dietician_receives_response_for_all_morbidity_api_with(GetAllMorbiditySteps.java:137)
+	at ✽.Dietician receives response for all Morbidity API "getmorbidity" with "get_all_morbidity_patient_token".(file:///C:/Users/rashm/eclipse-workspace/Team5-Rest-Athon/Team5-Rest-Athon-main/Team5-Rest-Athon/src/test/resources/features/GetAllMorbidity.feature:30)
+]]></failure>
+    </testcase>
+    <testcase classname="Getpatient.feature" name="Check if user able to retrieve all patients with &quot;get_patient_valid&quot; endpoint and request body." time="2.607">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates GET Request for the dietician/patient API endpoint with fields from "getpatient" with "get_patient_valid".passed
+When User sends HTTP Get patient Request "get_patient_valid"................passed
+Then User receives response for Get patient "getpatient" with "get_patient_valid".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Getpatient.feature" name="Check if user able to retrieve all patients with &quot;get_patient_invalid_endpoint&quot; endpoint and request body." time="0.601">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates GET Request for the dietician/patient API endpoint with fields from "getpatient" with "get_patient_invalid_endpoint".passed
+When User sends HTTP Get patient Request "get_patient_invalid_endpoint".....passed
+Then User receives response for Get patient "getpatient" with "get_patient_invalid_endpoint".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Getpatient.feature" name="Check if user able to retrieve all patients with &quot;get_patient_invalid_token&quot; endpoint and request body." time="0.498">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates GET Request for the dietician/patient API endpoint with fields from "getpatient" with "get_patient_invalid_token".passed
+When User sends HTTP Get patient Request "get_patient_invalid_token"........passed
+Then User receives response for Get patient "getpatient" with "get_patient_invalid_token".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Getpatient.feature" name="Check if user able to retrieve all patients with &quot;get_patient_patient_token&quot; endpoint and request body." time="0.532">
+        <failure message="1 expectation failed.&#10;Expected status code &lt;403&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates GET Request for the dietician/patient API endpoint with fields from "getpatient" with "get_patient_patient_token".passed
+When User sends HTTP Get patient Request "get_patient_patient_token"........passed
+Then User receives response for Get patient "getpatient" with "get_patient_patient_token".failed
+
+StackTrace:
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <403> but was <200>.
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+	at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor165.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+	at stepdefinitions.PatientSteps.user_receives_response_for_get_patient_with(PatientSteps.java:548)
+	at ✽.User receives response for Get patient "getpatient" with "get_patient_patient_token"(file:///C:/Users/rashm/eclipse-workspace/Team5-Rest-Athon/Team5-Rest-Athon-main/Team5-Rest-Athon/src/test/resources/features/Getallpatients.feature:32)
+]]></failure>
+    </testcase>
+    <testcase classname="LOGIN MODULE" name="Check if the user is able to log in with valid credentials for dietician" time="0.32">
+        <system-out><![CDATA[Given User creates POST Request for the dietician API endpoint using "login_valid_dietician" and "login" from excel..passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body "login_valid_dietician" and "login" from excel..passed
+]]></system-out>
+    </testcase>
+    <testcase classname="LOGIN MODULE" name="Check if the user is able to log in with valid credentials for dietician 2" time="0.227">
+        <system-out><![CDATA[Given User creates POST Request for the dietician API endpoint using "login_invalid_dietician" and "login" from excel..passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body "login_invalid_dietician" and "login" from excel..passed
+]]></system-out>
+    </testcase>
+    <testcase classname="LOGIN MODULE" name="Check if the user is able to log in with valid credentials for dietician 3" time="0.332">
+        <system-out><![CDATA[Given User creates POST Request for the dietician API endpoint using "login_invalidPass_dietician" and "login" from excel..passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body "login_invalidPass_dietician" and "login" from excel..passed
+]]></system-out>
+    </testcase>
+    <testcase classname="LOGIN MODULE" name="Check if the user is able to log in with valid credentials for dietician 4" time="0.314">
+        <system-out><![CDATA[Given User creates POST Request for the dietician API endpoint using "login_invalidEmail_dietician" and "login" from excel..passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body "login_invalidEmail_dietician" and "login" from excel..passed
+]]></system-out>
+    </testcase>
+    <testcase classname="LOGIN MODULE" name="Check if the user is able to log in with valid credentials for dietician 5" time="0.07">
+        <system-out><![CDATA[Given User creates POST Request for the dietician API endpoint using "login_missingCred_dietician" and "login" from excel..passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body "login_missingCred_dietician" and "login" from excel..passed
+]]></system-out>
+    </testcase>
+    <testcase classname="LOGIN MODULE" name="Check if the user is able to log in with invalid API endpoint" time="0.154">
+        <system-out><![CDATA[Given User creates POST Request for the dietician API endpoint..............passed
+When User sends HTTPS Request with invalid end points.......................passed
+Then User receives Status with response body................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Get Logout" name="Check if the user is able to log out sucessfully from dietician role" time="0.604">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates GET Request with API endpoint............................passed
+When User sends HTTPS Request...............................................passed
+Then Server should respond back with HTTP Status code 200 with message 'Logout successful'.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Get Logout" name="Check if the user is able to log out with invalid token" time="0.617">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates GET Request with API endpoint............................passed
+When User sends HTTPS Request with invalid token............................passed
+Then Server should respond back with HTTP Status code 401...................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Get Logout" name="Check if the user is able to log out with missing token" time="0.601">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates GET Request with API endpoint............................passed
+When User sends HTTPS Request with missing token............................passed
+Then Server should respond back with HTTP Status code 401...................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Get Logout" name="Check if the user is able to log out with missing endpoint" time="0.727">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates GET Request with API endpoint............................passed
+When User sends HTTPS Request missing endpoint..............................passed
+Then Server should respond back with HTTP Status code 404...................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Get Logout" name="Check if the user is able to log out with invalid endpoint" time="0.612">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates GET Request with API endpoint............................passed
+When User sends HTTPS Request invalid endpoint..............................passed
+Then Server should respond back with HTTP Status code 404...................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_valid&quot; endpoint and request body." time="0.666">
+        <failure message="1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;400&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_valid".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_valid".failed
+
+StackTrace:
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <201> but was <400>.
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+	at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor165.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+	at stepdefinitions.PatientSteps.user_receives_response_for_post_patient_with(PatientSteps.java:168)
+	at ✽.User receives response for POST patient "patient" with "post_patient_valid"(file:///C:/Users/rashm/eclipse-workspace/Team5-Rest-Athon/Team5-Rest-Athon-main/Team5-Rest-Athon/src/test/resources/features/Patient.feature:30)
+]]></failure>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_duplicate&quot; endpoint and request body." time="0.812">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_duplicate".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_duplicate".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_missing_mandatory_firstname&quot; endpoint and request body." time="0.571">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_missing_mandatory_firstname".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_missing_mandatory_firstname".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_missing_mandatory_lastname&quot; endpoint and request body." time="0.63">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_missing_mandatory_lastname".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_missing_mandatory_lastname".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_missing_mandatory_contactnumber&quot; endpoint and request body." time="0.632">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_missing_mandatory_contactnumber".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_missing_mandatory_contactnumber".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_missing_mandatory_email&quot; endpoint and request body." time="0.576">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_missing_mandatory_email".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_missing_mandatory_email".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_incorrect_format_allery&quot; endpoint and request body." time="0.601">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_incorrect_format_allery".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_incorrect_format_allery".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_incorrect_format_foodcat&quot; endpoint and request body." time="0.59">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_incorrect_format_foodcat".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_incorrect_format_foodcat".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_missing_mandatory_dob&quot; endpoint and request body." time="0.545">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_missing_mandatory_dob".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_missing_mandatory_dob".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_incorrect_format_dob&quot; endpoint and request body." time="0.56">
+        <failure message="1 expectation failed.&#10;Expected status code &lt;400&gt; but was &lt;500&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_incorrect_format_dob".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_incorrect_format_dob".failed
+
+StackTrace:
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <400> but was <500>.
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+	at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor165.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+	at stepdefinitions.PatientSteps.user_receives_response_for_post_patient_with(PatientSteps.java:212)
+	at ✽.User receives response for POST patient "patient" with "post_patient_incorrect_format_dob"(file:///C:/Users/rashm/eclipse-workspace/Team5-Rest-Athon/Team5-Rest-Athon-main/Team5-Rest-Athon/src/test/resources/features/Patient.feature:30)
+]]></failure>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_incorrect_format_email&quot; endpoint and request body." time="0.545">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_incorrect_format_email".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_incorrect_format_email".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_incorrect_format_contactnumber&quot; endpoint and request body." time="0.552">
+        <failure message="1 expectation failed.&#10;Expected status code &lt;400&gt; but was &lt;500&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_incorrect_format_contactnumber".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_incorrect_format_contactnumber".failed
+
+StackTrace:
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <400> but was <500>.
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+	at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor165.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+	at stepdefinitions.PatientSteps.user_receives_response_for_post_patient_with(PatientSteps.java:212)
+	at ✽.User receives response for POST patient "patient" with "post_patient_incorrect_format_contactnumber"(file:///C:/Users/rashm/eclipse-workspace/Team5-Rest-Athon/Team5-Rest-Athon-main/Team5-Rest-Athon/src/test/resources/features/Patient.feature:30)
+]]></failure>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_invalid_endpoint&quot; endpoint and request body." time="0.546">
+        <failure message="1 expectation failed.&#10;Expected status code &lt;404&gt; but was &lt;400&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_invalid_endpoint".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_invalid_endpoint".failed
+
+StackTrace:
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <404> but was <400>.
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+	at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor165.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+	at stepdefinitions.PatientSteps.user_receives_response_for_post_patient_with(PatientSteps.java:224)
+	at ✽.User receives response for POST patient "patient" with "post_patient_invalid_endpoint"(file:///C:/Users/rashm/eclipse-workspace/Team5-Rest-Athon/Team5-Rest-Athon-main/Team5-Rest-Athon/src/test/resources/features/Patient.feature:30)
+]]></failure>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_invalid_token&quot; endpoint and request body." time="0.557">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_invalid_token".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_invalid_token".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Patient.feature" name="Check if user able to create a patient with &quot;post_patient_patient_token&quot; endpoint and request body." time="0.565">
+        <failure message="1 expectation failed.&#10;Expected status code &lt;403&gt; but was &lt;400&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the dietician/patient API endpoint with fields from "patient" with "post_patient_patient_token".passed
+When User sends HTTP POST patient Request...................................passed
+Then User receives response for POST patient "patient" with "post_patient_patient_token".failed
+
+StackTrace:
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <403> but was <400>.
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+	at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor165.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+	at stepdefinitions.PatientSteps.user_receives_response_for_post_patient_with(PatientSteps.java:249)
+	at ✽.User receives response for POST patient "patient" with "post_patient_patient_token"(file:///C:/Users/rashm/eclipse-workspace/Team5-Rest-Athon/Team5-Rest-Athon-main/Team5-Rest-Athon/src/test/resources/features/Patient.feature:30)
+]]></failure>
+    </testcase>
+    <testcase classname="Patient Login" name="Check if the user is able to log in with valid credentials for patient" time="0.559">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with credentials on the request Body..........passed
+Then User receives Status with response body containing token information...passed
+Given User creates POST Request for the patient API endpoint................passed
+When User sends HTTPS Request with valid credentials for patient on the request Body..passed
+Then User receives Status 200 with response body............................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Title of your feature" name="Check if the user is able to log out successfully for patient role" time="0.649">
+        <system-out><![CDATA[Given User creates POST Request for the patient API endpoint................passed
+When User sends HTTPS Request with valid credentials for patient on the request Body..passed
+Then User receives Status 200 with response body............................passed
+Given User creates GET Request with API endpoint............................passed
+When User sends HTTPS Request...............................................passed
+Then Server should respond back with HTTP Status code 200 with message 'Logout successful'.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Putpatient.feature" name="Check if user able to update a patient with &quot;put_patient_valid&quot; endpoint and request body." time="1.015">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates Put Request for the dietician/patient API endpoint with fields from "putpatient" with "put_patient_valid".passed
+When User sends HTTP Put patient Request "put_patient_valid"................passed
+Then User receives response for Put patient "putpatient" with "put_patient_valid".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Putpatient.feature" name="Check if user able to update a patient with &quot;put_patient_incorrect_format_allery&quot; endpoint and request body." time="0.655">
+        <failure message="1 expectation failed.&#10;Expected status code &lt;400&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates Put Request for the dietician/patient API endpoint with fields from "putpatient" with "put_patient_incorrect_format_allery".passed
+When User sends HTTP Put patient Request "put_patient_incorrect_format_allery".passed
+Then User receives response for Put patient "putpatient" with "put_patient_incorrect_format_allery".failed
+
+StackTrace:
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <400> but was <200>.
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+	at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor165.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+	at stepdefinitions.PatientSteps.user_receives_response_for_put_patient_with(PatientSteps.java:400)
+	at ✽.User receives response for Put patient "putpatient" with "put_patient_incorrect_format_allery"(file:///C:/Users/rashm/eclipse-workspace/Team5-Rest-Athon/Team5-Rest-Athon-main/Team5-Rest-Athon/src/test/resources/features/Putpatient.feature:32)
+]]></failure>
+    </testcase>
+    <testcase classname="Putpatient.feature" name="Check if user able to update a patient with &quot;put_patient_incorrect_format_foodcat&quot; endpoint and request body." time="0.572">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates Put Request for the dietician/patient API endpoint with fields from "putpatient" with "put_patient_incorrect_format_foodcat".passed
+When User sends HTTP Put patient Request "put_patient_incorrect_format_foodcat".passed
+Then User receives response for Put patient "putpatient" with "put_patient_incorrect_format_foodcat".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Putpatient.feature" name="Check if user able to update a patient with &quot;put_patient_incorrect_format_dob&quot; endpoint and request body." time="0.52">
+        <failure message="1 expectation failed.&#10;Expected status code &lt;400&gt; but was &lt;500&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates Put Request for the dietician/patient API endpoint with fields from "putpatient" with "put_patient_incorrect_format_dob".passed
+When User sends HTTP Put patient Request "put_patient_incorrect_format_dob".passed
+Then User receives response for Put patient "putpatient" with "put_patient_incorrect_format_dob".failed
+
+StackTrace:
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <400> but was <500>.
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+	at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor165.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+	at stepdefinitions.PatientSteps.user_receives_response_for_put_patient_with(PatientSteps.java:400)
+	at ✽.User receives response for Put patient "putpatient" with "put_patient_incorrect_format_dob"(file:///C:/Users/rashm/eclipse-workspace/Team5-Rest-Athon/Team5-Rest-Athon-main/Team5-Rest-Athon/src/test/resources/features/Putpatient.feature:32)
+]]></failure>
+    </testcase>
+    <testcase classname="Putpatient.feature" name="Check if user able to update a patient with &quot;put_patient_incorrect_format_email&quot; endpoint and request body." time="0.565">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates Put Request for the dietician/patient API endpoint with fields from "putpatient" with "put_patient_incorrect_format_email".passed
+When User sends HTTP Put patient Request "put_patient_incorrect_format_email".passed
+Then User receives response for Put patient "putpatient" with "put_patient_incorrect_format_email".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Putpatient.feature" name="Check if user able to update a patient with &quot;put_patient_incorrect_format_contactnumber&quot; endpoint and request body." time="0.537">
+        <failure message="1 expectation failed.&#10;Expected status code &lt;400&gt; but was &lt;500&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates Put Request for the dietician/patient API endpoint with fields from "putpatient" with "put_patient_incorrect_format_contactnumber".passed
+When User sends HTTP Put patient Request "put_patient_incorrect_format_contactnumber".passed
+Then User receives response for Put patient "putpatient" with "put_patient_incorrect_format_contactnumber".failed
+
+StackTrace:
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <400> but was <500>.
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+	at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor165.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+	at stepdefinitions.PatientSteps.user_receives_response_for_put_patient_with(PatientSteps.java:400)
+	at ✽.User receives response for Put patient "putpatient" with "put_patient_incorrect_format_contactnumber"(file:///C:/Users/rashm/eclipse-workspace/Team5-Rest-Athon/Team5-Rest-Athon-main/Team5-Rest-Athon/src/test/resources/features/Putpatient.feature:32)
+]]></failure>
+    </testcase>
+    <testcase classname="Putpatient.feature" name="Check if user able to update a patient with &quot;put_patient_invalid_endpoint&quot; endpoint and request body." time="0.608">
+        <failure message="1 expectation failed.&#10;Expected status code &lt;404&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates Put Request for the dietician/patient API endpoint with fields from "putpatient" with "put_patient_invalid_endpoint".passed
+When User sends HTTP Put patient Request "put_patient_invalid_endpoint".....passed
+Then User receives response for Put patient "putpatient" with "put_patient_invalid_endpoint".failed
+
+StackTrace:
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <404> but was <200>.
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+	at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor165.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+	at stepdefinitions.PatientSteps.user_receives_response_for_put_patient_with(PatientSteps.java:412)
+	at ✽.User receives response for Put patient "putpatient" with "put_patient_invalid_endpoint"(file:///C:/Users/rashm/eclipse-workspace/Team5-Rest-Athon/Team5-Rest-Athon-main/Team5-Rest-Athon/src/test/resources/features/Putpatient.feature:32)
+]]></failure>
+    </testcase>
+    <testcase classname="Putpatient.feature" name="Check if user able to update a patient with &quot;put_patient_invalid_token&quot; endpoint and request body." time="0.549">
+        <system-out><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates Put Request for the dietician/patient API endpoint with fields from "putpatient" with "put_patient_invalid_token".passed
+When User sends HTTP Put patient Request "put_patient_invalid_token"........passed
+Then User receives response for Put patient "putpatient" with "put_patient_invalid_token".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Putpatient.feature" name="Check if user able to update a patient with &quot;put_patient_patient_token&quot; endpoint and request body." time="0.63">
+        <failure message="1 expectation failed.&#10;Expected status code &lt;403&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[Given User creates POST Request for the login API...........................passed
+When User sends HTTPS Request with valid credentials on the request Body....passed
+Then User receives Status with response body containing token information...passed
+Given User creates Put Request for the dietician/patient API endpoint with fields from "putpatient" with "put_patient_patient_token".passed
+When User sends HTTP Put patient Request "put_patient_patient_token"........passed
+Then User receives response for Put patient "putpatient" with "put_patient_patient_token".failed
+
+StackTrace:
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <403> but was <200>.
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+	at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor165.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+	at stepdefinitions.PatientSteps.user_receives_response_for_put_patient_with(PatientSteps.java:437)
+	at ✽.User receives response for Put patient "putpatient" with "put_patient_patient_token"(file:///C:/Users/rashm/eclipse-workspace/Team5-Rest-Athon/Team5-Rest-Athon-main/Team5-Rest-Athon/src/test/resources/features/Putpatient.feature:32)
+]]></failure>
+    </testcase>
+</testsuite>
