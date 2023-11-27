@@ -24,7 +24,7 @@ Feature: GetAllMorbidities.feature
     When  User sends HTTPS Request with valid credentials on the request Body.
     Then  User receives Status with response body containing token information.
    
-	Scenario: Check if user as Dietician able to retrieve all morbidity details with "<dataKey>" endpoint and request body.
+	Scenario Outline: Check if user as Dietician able to retrieve all morbidity details with "<dataKey>" endpoint and request body.
  	Given Dietician creates GET Request for all Morbidity API endpoint with fields from "<sheetName>" with "<dataKey>".
  	When Dietician sends HTTPS Request for all Morbidity API "<dataKey>".
 	Then Dietician receives response for all Morbidity API "<sheetName>" with "<dataKey>".
